@@ -1,4 +1,3 @@
-<br>
 <div class="card">
     <div class="card-header">
         <a href="#">
@@ -13,3 +12,4 @@
         </article>
     </div>
 </div>
+<br>
