@@ -42,7 +42,7 @@
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Channels</a>
-                            <div class="dropdown-menu">
+                            <div class="dropdown-menu pre-scrollable">
                                 @foreach ($channels as $channel)
                                     <a class="dropdown-item" href="/threads/{{ $channel->slug }}">{{ $channel->name }}</a>
                                 @endforeach
