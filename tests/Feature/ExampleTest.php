@@ -9,6 +9,7 @@ use Illuminate\Foundation\Testing\DatabaseMigrations;
 class ExampleTest extends TestCase
 {
     use DatabaseMigrations;
+    
     /**
      * A basic test example.
      *
